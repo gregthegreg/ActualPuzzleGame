@@ -51,6 +51,7 @@ if(place_meeting(x,y,oPieceParent))
 	hit = other
 		hitexisted = true
 		hitrooted = other.rooted
+		canfall = false
 		
 	}
 }
@@ -58,12 +59,14 @@ if(place_meeting(x,y,oPieceParent))
 else if (place_meeting(x,y,oWall))
 {
 		user.rooted = true
+		canfall = false
 		
 }
 
 
 else if(!place_meeting(x,y,oSolid)){
-		
+			
+	
 		//user.state = piecestate
 		user.spent = false
 		user.switchdirection = true

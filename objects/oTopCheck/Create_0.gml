@@ -21,4 +21,5 @@ switchdirection = -1
 timer = 20
 rooted =false
 hitrooted = -1
+fallcount = 0
 

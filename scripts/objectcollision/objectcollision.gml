@@ -6,7 +6,7 @@ sprite_bbox_left = bbox_left - x;
 
 //Horizontal collisions
 
-
+/*
 //Snap
 if place_meeting(x, y, oSolid) { // DON'T USE sign(hsp) since you are checking current possition
     var wall = instance_place(x+sign(hsp),y,oSolid); // same thing you are inside and don't want to check 1px more
@@ -19,7 +19,7 @@ if place_meeting(x, y, oSolid) { // DON'T USE sign(hsp) since you are checking c
 	
 	
 }
-
+*/
 //Vertical collisions
 
 

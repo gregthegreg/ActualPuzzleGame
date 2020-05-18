@@ -1,5 +1,7 @@
 /// @description Insert description here
 // You can write your code in this editor
+// @description Insert description here
+// You can write your code in this editor
 x = user.x
 y = user.y
 if(place_meeting(x,y,oPieceParent))
@@ -12,4 +14,4 @@ if(place_meeting(x,y,oPieceParent))
 if(!place_meeting(x,y,oSolid))
 {
 	touching = false
-}	
+}
