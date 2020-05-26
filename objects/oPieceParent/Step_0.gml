@@ -2,8 +2,10 @@
 // You can write your code in this editor
 
 //Collision
+var seconds_since_last_frame = (delta_time / 1000000);     
+var distance_to_move_this_frame = (vsp * seconds_since_last_frame);   
 x += hsp;
-y += vsp;
+y += distance_to_move_this_frame;
 #region
 //TileCollisionEnemy()
 
