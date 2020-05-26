@@ -1,6 +1,6 @@
  /// @description Insert description here
 // You can write your code in this editor
-enum PieceState {
+/*enum PieceState {
 	carried,
 	shot, 
 	midairlock,
@@ -9,7 +9,7 @@ enum PieceState {
 	movedown
 	
 	
-}
+}*/
 touchid = -1
 rooted = false
 tilemap = layer_tilemap_get_id("Collision");
