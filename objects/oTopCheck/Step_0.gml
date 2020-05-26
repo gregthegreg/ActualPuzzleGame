@@ -66,11 +66,12 @@ else if(!place_meeting(x,y,oSolid)){
 	
 
 	
-
 		//user.state = piecestate
 		user.spent = false
 		user.switchdirection = true
 		user.rooted = false
+	
+	
 		
 		
 		

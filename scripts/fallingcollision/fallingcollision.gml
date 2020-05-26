@@ -61,7 +61,7 @@ if place_meeting(x, y, oSolid) {
 	}
 	else if(!upmode)
 	{
-		if(!upmode)&&(top =-1)&&(switchdirection)
+		if(!upmode)&&(switchdirection)
 			{
 				instance_destroy(top)
 				var inst,inst1

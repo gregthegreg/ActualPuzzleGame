@@ -67,11 +67,12 @@ else if (place_meeting(x,y,oWall))
 else if(!place_meeting(x,y,oSolid)){
 			
 	
+	
 		//user.state = piecestate
 		user.spent = false
 		user.switchdirection = true
 		user.rooted = false
-		
+	
 		
 		//instance_destroy(user.top)
 		

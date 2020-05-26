@@ -128,7 +128,7 @@ else if(state == PieceStateGreen.lock)
 
 	if(instance_exists(bottom))
 	{
-	if(!rooted)&&(bottom.touching = false)&&(oGame.canfall)
+	if(!rooted)&&(bottom.touching = false)
 	{
 		state = fall	
 	}
