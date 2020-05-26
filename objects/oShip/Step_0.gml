@@ -14,6 +14,7 @@ if(os_android)
 }
 else
 {
+	
 shoot = mouse_check_button_released(mb_left)
 twistbutton = mouse_check_button_pressed(mb_right)
 }
@@ -32,9 +33,9 @@ if(shoot)
 		
 	holding = false
 }
-//x = mouse_x;
-tilecollision()
 
+tilecollision()
+x = mouse_x;
 if !place_snapped(128, 128)
       {
       move_snap(128, 128);
