@@ -1,6 +1,6 @@
 
 {
-    "name": "room0",
+    "name": "Template",
     "id": "e6541dbc-3a6f-47b9-8ebb-6aa1bddfd6b7",
     "creationCodeFile": "",
     "inheritCode": false,
