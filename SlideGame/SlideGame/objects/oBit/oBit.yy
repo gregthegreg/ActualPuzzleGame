@@ -4,16 +4,7 @@
     "mvc": "1.0",
     "name": "oBit",
     "eventList": [
-        {
-            "id": "becb12f0-9e52-4294-8222-009ee95593f1",
-            "modelName": "GMEvent",
-            "mvc": "1.0",
-            "IsDnD": false,
-            "collisionObjectId": "3223efd3-e287-4f6c-91dd-cc4390f1573e",
-            "enumb": 0,
-            "eventtype": 4,
-            "m_owner": "31fdabe8-1b87-428b-bc16-2174d93f2f6f"
-        }
+        
     ],
     "maskSpriteId": "00000000-0000-0000-0000-000000000000",
     "overriddenProperties": null,

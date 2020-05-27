@@ -1,3 +1,3 @@
 /// @description Insert description here
 // You can write your code in this editor
-instance_destroy()
+wavedirection = Wave(-3,3,5,0)

@@ -1,6 +1,4 @@
 /// @description Insert description here
 // You can write your code in this editor
-key_detect()
-objectcollision()
-movement()
-ChargeCheck()
+draw_set_font(Font_Menu)
+draw_text(x,y,bits)
