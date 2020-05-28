@@ -7,8 +7,6 @@ enum PieceState {
 	lock,
 	falling,
 	movedown
-	
-	
 }
 touchid = -1
 rooted = false
