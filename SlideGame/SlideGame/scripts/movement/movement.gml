@@ -4,7 +4,7 @@ if(Upkey)&&(vsp = 0)&&(hsp = 0){
 		jumps --
 	}
 	else{
-	vsp -=20
+	vsp -=50
 	}
 }
 else if(downkey)&&(vsp = 0)&&(hsp = 0){
@@ -13,7 +13,7 @@ else if(downkey)&&(vsp = 0)&&(hsp = 0){
 		jumps --
 	}
 	else{
-	vsp +=20
+	vsp +=50
 	}
 }
 else if(Leftkey)&&(vsp = 0)&&(hsp = 0){
@@ -22,7 +22,7 @@ else if(Leftkey)&&(vsp = 0)&&(hsp = 0){
 		jumps --
 	}
 	else{
-	hsp -=20
+	hsp -=50
 	}
 }
 else if(RightKey)&&(vsp = 0)&&(hsp = 0){
@@ -32,6 +32,6 @@ else if(RightKey)&&(vsp = 0)&&(hsp = 0){
 		jumps --
 	}
 	else{
-	hsp +=20
+	hsp +=50
 	}
 }
