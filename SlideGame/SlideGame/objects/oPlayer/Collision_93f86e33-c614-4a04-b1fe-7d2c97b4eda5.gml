@@ -5,4 +5,7 @@ if(!charged){
 }
 else if(charged){
 	instance_destroy(other)	
+	jumps = 1
+	supercharged = true	
+
 }
