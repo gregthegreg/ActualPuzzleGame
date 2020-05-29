@@ -16,10 +16,11 @@ if place_meeting(x, y, oSolid) { // DON'T USE sign(hsp) since you are checking c
         x = (wall.bbox_right+1)-sprite_bbox_left;
     }
     hsp = 0;
-	supercharged = false
-	if(jumps = 0){
-	charged = false
-}
+	moving = false;
+	if(moveId > -1 and !moving){
+		BufferedMove(moveId);
+	}
+
 }
 
 //Vertical collisions
@@ -34,8 +35,9 @@ if place_meeting(x, y, oSolid) {
         y = (wall.bbox_bottom+1) - sprite_bbox_top;
     }
     vsp = 0;
-	supercharged = false
-	if(jumps = 0){
-	charged = false
-}
+	moving = false;
+	if(moveId > -1 and !moving){
+		BufferedMove(moveId);
+	}
+
 }
