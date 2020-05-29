@@ -8,5 +8,4 @@ jumps = 1
 chargetimermax = 60
 chargetimer = chargetimermax
 bits = 0
-moving = false;
-moveId = -1;
+

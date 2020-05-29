@@ -167,14 +167,6 @@
             }
         },
         {
-            "Key": "3405ac33-6344-42dc-8307-6c2f4a03ad03",
-            "Value": {
-                "id": "5e7552c6-c594-49a7-9e80-9103a9fa1630",
-                "resourcePath": "scripts\\MoveUp\\MoveUp.yy",
-                "resourceType": "GMScript"
-            }
-        },
-        {
             "Key": "34eb6a7a-a38e-4506-8361-1f11633aca8b",
             "Value": {
                 "id": "b5da5d47-1369-4f1e-9d1f-52d20eee9bb5",
@@ -252,14 +244,6 @@
                 "id": "417ea216-30d7-4627-a046-5fde3a0f6b63",
                 "resourcePath": "rooms\\roomTest3\\roomTest3.yy",
                 "resourceType": "GMRoom"
-            }
-        },
-        {
-            "Key": "5873c283-5baf-47db-bfc2-23896da94de5",
-            "Value": {
-                "id": "2cd6bb92-27d1-445a-afa2-e97fc6fa54e7",
-                "resourcePath": "scripts\\MoveLeft\\MoveLeft.yy",
-                "resourceType": "GMScript"
             }
         },
         {
@@ -407,6 +391,7 @@
             }
         },
         {
+<<<<<<< HEAD
             "Key": "88a67250-4963-4609-97c8-48a236701dff",
             "Value": {
                 "id": "f658bd98-8c2b-4a85-9f8f-38f4814912cb",
@@ -420,6 +405,8 @@
             }
         },
         {
+=======
+>>>>>>> parent of 86e668e... Move buffering complete
             "Key": "8a69b36c-bf62-4316-b753-92d3663d46a6",
             "Value": {
                 "id": "22dcc0ff-c1cd-4746-b79c-1d239bba0395",
@@ -433,14 +420,6 @@
                 "id": "772b6d83-91b3-4fa6-b0f8-0dfb9c70b744",
                 "resourcePath": "objects\\oSwitch2\\oSwitch2.yy",
                 "resourceType": "GMObject"
-            }
-        },
-        {
-            "Key": "8aa3cb2d-cf07-4507-8acf-5ff2c4f2a87d",
-            "Value": {
-                "id": "96063bab-05b1-40a8-bee5-9201ce9411dd",
-                "resourcePath": "scripts\\MoveRight\\MoveRight.yy",
-                "resourceType": "GMScript"
             }
         },
         {
@@ -489,14 +468,6 @@
                 "id": "746d3ae4-3ffd-486b-8592-c1b3498e996b",
                 "resourcePath": "views\\96258059-1c53-4048-9136-b4e887638795.yy",
                 "resourceType": "GMFolder"
-            }
-        },
-        {
-            "Key": "998dbd44-92b2-4a31-9568-4f281c2df12a",
-            "Value": {
-                "id": "26256a17-0381-4b77-be73-e9a66ccca572",
-                "resourcePath": "scripts\\MoveDown\\MoveDown.yy",
-                "resourceType": "GMScript"
             }
         },
         {
@@ -564,14 +535,6 @@
             }
         },
         {
-            "Key": "ad099388-72b9-48b6-aff4-93d5bdf3fc64",
-            "Value": {
-                "id": "07980721-187d-4525-9f70-c73fe8f37a8b",
-                "resourcePath": "scripts\\BufferedMove\\BufferedMove.yy",
-                "resourceType": "GMScript"
-            }
-        },
-        {
             "Key": "b4f1ebf4-5a04-407d-927e-55129a40355c",
             "Value": {
                 "id": "b6615b5b-4a84-47b4-a9b1-c84e1790f1fe",
@@ -609,14 +572,6 @@
                 "id": "da26108c-ecf2-4b77-96a6-072da7845251",
                 "resourcePath": "options\\windows\\options_windows.yy",
                 "resourceType": "GMWindowsOptions"
-            }
-        },
-        {
-            "Key": "d4847ba1-6042-42fb-b9ba-d1701d3fc24d",
-            "Value": {
-                "id": "205cc38e-e354-4c44-a999-d44d1de017ec",
-                "resourcePath": "scripts\\CheckMove\\CheckMove.yy",
-                "resourceType": "GMScript"
             }
         },
         {
@@ -720,6 +675,7 @@
         "1cc6f7c6-aa78-4720-aa5a-cca94bb0e999",
         "7670fe76-360a-4609-b56d-49a85a1bbb65",
         "9b9ab918-5282-4da7-b0e6-35617e5b09a9",
+<<<<<<< HEAD
         "0b234a89-2549-48a4-9cda-ad8a86ae1fcc",
         "2f8647bf-142e-446b-8286-b82a925e96ab",
         "a33b3fe1-f740-41b5-9a65-416393b299fe",
@@ -727,12 +683,11 @@
         "831c7609-7d9f-4a47-829b-8fa9c801c8e5",
         "42cdf83b-dc13-421e-8efb-43f7e3f12c1f",
         "d4847ba1-6042-42fb-b9ba-d1701d3fc24d",
+=======
+>>>>>>> parent of 86e668e... Move buffering complete
         "2f8647bf-142e-446b-8286-b82a925e96ab",
-        "8aa3cb2d-cf07-4507-8acf-5ff2c4f2a87d",
-        "5873c283-5baf-47db-bfc2-23896da94de5",
-        "3405ac33-6344-42dc-8307-6c2f4a03ad03",
-        "998dbd44-92b2-4a31-9568-4f281c2df12a",
-        "ad099388-72b9-48b6-aff4-93d5bdf3fc64"
+        "831c7609-7d9f-4a47-829b-8fa9c801c8e5",
+        "42cdf83b-dc13-421e-8efb-43f7e3f12c1f"
     ],
     "tutorial": ""
 }
