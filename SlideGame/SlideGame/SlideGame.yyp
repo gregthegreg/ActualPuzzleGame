@@ -55,6 +55,14 @@
             }
         },
         {
+            "Key": "0b234a89-2549-48a4-9cda-ad8a86ae1fcc",
+            "Value": {
+                "id": "a2e52676-a7b3-4a68-bcbe-e235f5edab2d",
+                "resourcePath": "scripts\\key_detect1\\key_detect1.yy",
+                "resourceType": "GMScript"
+            }
+        },
+        {
             "Key": "0d79bae0-e142-4217-9eb3-ec63808a16f1",
             "Value": {
                 "id": "d295dd85-70d3-4fb6-848e-993b7ebd5d4b",
@@ -351,6 +359,14 @@
             }
         },
         {
+            "Key": "7670fe76-360a-4609-b56d-49a85a1bbb65",
+            "Value": {
+                "id": "65f8f51e-6753-4a74-9f32-ce8c42565e50",
+                "resourcePath": "scripts\\objectcollision1\\objectcollision1.yy",
+                "resourceType": "GMScript"
+            }
+        },
+        {
             "Key": "7bc1d0da-c335-4397-a4ec-20aa64bababc",
             "Value": {
                 "id": "7fae0c0a-bb7a-4e72-bde8-bbd0be925c42",
@@ -391,6 +407,11 @@
             }
         },
         {
+            "Key": "88a67250-4963-4609-97c8-48a236701dff",
+            "Value": {
+                "id": "f658bd98-8c2b-4a85-9f8f-38f4814912cb",
+                "resourcePath": "scripts\\movement1\\movement1.yy",
+                "resourceType": "GMScript"
             "Key": "87ea107e-9323-4819-b410-0be24b8002d9",
             "Value": {
                 "id": "e34f99a6-d3d0-478b-addc-6685091ce918",
@@ -500,6 +521,14 @@
                 "id": "bd81193a-44f0-4b60-9659-7d41b4e2d114",
                 "resourcePath": "options\\amazonfire\\options_amazonfire.yy",
                 "resourceType": "GMAmazonFireOptions"
+            }
+        },
+        {
+            "Key": "a33b3fe1-f740-41b5-9a65-416393b299fe",
+            "Value": {
+                "id": "551d50c7-41d5-4c2f-b0b5-ef22d2149978",
+                "resourcePath": "scripts\\movement2\\movement2.yy",
+                "resourceType": "GMScript"
             }
         },
         {
@@ -689,7 +718,12 @@
     ],
     "script_order": [
         "1cc6f7c6-aa78-4720-aa5a-cca94bb0e999",
+        "7670fe76-360a-4609-b56d-49a85a1bbb65",
         "9b9ab918-5282-4da7-b0e6-35617e5b09a9",
+        "0b234a89-2549-48a4-9cda-ad8a86ae1fcc",
+        "2f8647bf-142e-446b-8286-b82a925e96ab",
+        "a33b3fe1-f740-41b5-9a65-416393b299fe",
+        "88a67250-4963-4609-97c8-48a236701dff",
         "831c7609-7d9f-4a47-829b-8fa9c801c8e5",
         "42cdf83b-dc13-421e-8efb-43f7e3f12c1f",
         "d4847ba1-6042-42fb-b9ba-d1701d3fc24d",
