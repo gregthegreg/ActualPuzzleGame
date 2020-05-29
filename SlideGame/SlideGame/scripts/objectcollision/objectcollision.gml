@@ -20,7 +20,7 @@ if place_meeting(x, y, oSolid) { // DON'T USE sign(hsp) since you are checking c
 	if(moveId > -1 and !moving){
 		BufferedMove(moveId);
 	}
-	
+
 }
 
 //Vertical collisions
@@ -39,5 +39,5 @@ if place_meeting(x, y, oSolid) {
 	if(moveId > -1 and !moving){
 		BufferedMove(moveId);
 	}
-	
+
 }

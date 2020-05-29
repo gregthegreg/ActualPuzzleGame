@@ -4,7 +4,7 @@ if(moving) {
 	moveId = CheckMove(moveId);
 }
 
-if(Upkey && !moving){	
+if(Upkey && !moving){
 	MoveUp();
 }
 else if(downkey && !moving){
@@ -13,6 +13,6 @@ else if(downkey && !moving){
 else if(Leftkey && !moving){
 	MoveLeft();
 }
-else if(RightKey && !moving){	
-	MoveRight();	
+else if(RightKey && !moving){
+	MoveRight();
 }
