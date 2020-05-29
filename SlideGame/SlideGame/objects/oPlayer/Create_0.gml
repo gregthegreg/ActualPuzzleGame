@@ -4,8 +4,10 @@
 vsp = 0
 hsp = 0
 charged = false
-jumps = 1
+jumps = 0
 chargetimermax = 60
 chargetimer = chargetimermax
 bits = 0
-
+moving = false;
+moveId = -1;
+supercharged = false

@@ -8,7 +8,10 @@ if(misckey)
 	}
 }
 
-
+if(jumps = 0)&&(!moving){
+	charged = false
+	supercharged = false
+}
 
 if(charged){
 	sprite_index = spriteRedPieceCharge	
@@ -17,8 +20,8 @@ if(charged){
 else if(!charged){
 	sprite_index = spriteRedPiece	
 }
-if(supercharged){
-	sprite_index = spriteRedPieceSuperCharge
+else if(supercharged){
+	sprite_index = spriteRedPieceSuperCharged
 }
 else if(!supercharged)&&(!charged){
 	sprite_index = spriteRedPiece

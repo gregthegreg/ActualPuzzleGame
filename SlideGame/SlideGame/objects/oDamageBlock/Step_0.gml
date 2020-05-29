@@ -10,7 +10,7 @@ else if(timer < 0)&&(image_index = 1){
 	timer = timermax
 }
 if(image_index = 1){
-	if(collision_circle(x,y,35,oPlayer,1,0)){
+	if(collision_circle(x,y,33,oPlayer,1,0)){
 			room_restart()
 	}
 }
