@@ -3,5 +3,4 @@
 key_detect()
 objectcollision()
 movement()
-//ChargeCheck()
-checkforbreakable()
+ChargeCheck()
