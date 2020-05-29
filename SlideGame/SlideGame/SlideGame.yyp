@@ -4,7 +4,7 @@
     "mvc": "1.0",
     "IsDnDProject": false,
     "configs": [
-
+        
     ],
     "option_ecma": false,
     "parentProject": {
@@ -25,7 +25,7 @@
             }
         ],
         "hiddenResources": [
-
+            
         ],
         "projectPath": "${base_project}"
     },
@@ -698,7 +698,10 @@
         "5873c283-5baf-47db-bfc2-23896da94de5",
         "3405ac33-6344-42dc-8307-6c2f4a03ad03",
         "998dbd44-92b2-4a31-9568-4f281c2df12a",
-        "ad099388-72b9-48b6-aff4-93d5bdf3fc64"
+        "ad099388-72b9-48b6-aff4-93d5bdf3fc64",
+        "40253be1-1325-4741-adcd-2645edf041e7",
+        "faa59a45-fc95-442a-abc5-c5405cf6816d",
+        "e6f3085c-abad-4917-9d92-6435bdba289c"
     ],
     "tutorial": ""
 }
