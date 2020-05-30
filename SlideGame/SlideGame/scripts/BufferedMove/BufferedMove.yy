@@ -1,8 +1,8 @@
 {
-    "id": "faa59a45-fc95-442a-abc5-c5405cf6816d",
+    "id": "ad099388-72b9-48b6-aff4-93d5bdf3fc64",
     "modelName": "GMScript",
     "mvc": "1.0",
-    "name": "script5",
+    "name": "BufferedMove",
     "IsCompatibility": false,
     "IsDnD": false
 }
