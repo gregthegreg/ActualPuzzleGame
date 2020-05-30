@@ -1,8 +1,8 @@
 {
-    "id": "5873c283-5baf-47db-bfc2-23896da94de5",
+    "id": "faa59a45-fc95-442a-abc5-c5405cf6816d",
     "modelName": "GMScript",
     "mvc": "1.0",
-    "name": "MoveLeft",
+    "name": "script5",
     "IsCompatibility": false,
     "IsDnD": false
 }
