@@ -1,7 +1,5 @@
 /// @description Insert description here
 // You can write your code in this editor
-key_detect()
-objectcollision()
-movement()
-ChargeCheck()
-//checkforbreakable()
+charged = true;
+jumps =1
+instance_destroy(other);

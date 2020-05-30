@@ -175,6 +175,14 @@
             }
         },
         {
+            "Key": "3f5236f4-b8f6-4553-bb48-ebe0adeb0f5b",
+            "Value": {
+                "id": "66d5efd9-463d-4724-8519-35ae48fc0125",
+                "resourcePath": "objects\\oMotionDamageBlock\\oMotionDamageBlock.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
             "Key": "42cdf83b-dc13-421e-8efb-43f7e3f12c1f",
             "Value": {
                 "id": "27e7e421-55d3-4d85-a0f2-c0b66f7db196",
@@ -516,6 +524,14 @@
                 "id": "583434fc-2d48-4c30-aa75-72c493acc3fd",
                 "resourcePath": "objects\\oBreakable\\oBreakable.yy",
                 "resourceType": "GMObject"
+            }
+        },
+        {
+            "Key": "ac042b41-7add-4b6a-a25b-23e1a806170a",
+            "Value": {
+                "id": "2076e421-b946-4f27-bd9a-e551c5da80b6",
+                "resourcePath": "sprites\\spriteSuperCharged\\spriteSuperCharged.yy",
+                "resourceType": "GMSprite"
             }
         },
         {
