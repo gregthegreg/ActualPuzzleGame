@@ -10,7 +10,7 @@ if(oPlayer.moving = false){
 	}
 	if(image_index = 1){
 		if(collision_circle(x,y,35,oPlayer,1,0)){
-				room_restart()
+				room_restart() 
 		}
 	}
 	
