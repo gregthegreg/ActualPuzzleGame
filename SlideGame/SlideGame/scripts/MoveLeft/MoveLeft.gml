@@ -3,6 +3,7 @@ if(charged){
 	jumps --
 	
 }else{
-	hsp -=20
+	hsp -=50
 }
 moving = true;
+direction = 180

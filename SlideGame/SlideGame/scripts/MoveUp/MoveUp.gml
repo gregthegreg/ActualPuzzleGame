@@ -3,6 +3,7 @@ if(charged){
 	jumps --
 	
 }else{
-	vsp -=20
+	vsp -=50
 }
 moving = true;
+direction = 90
