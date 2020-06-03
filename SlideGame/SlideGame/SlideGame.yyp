@@ -79,6 +79,14 @@
             }
         },
         {
+            "Key": "17bd4d3e-9d62-4f2f-b573-ab31404511da",
+            "Value": {
+                "id": "84894b12-cc36-496b-8bea-cd73bed93234",
+                "resourcePath": "objects\\oTileOff\\oTileOff.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
             "Key": "1a843ad5-6604-4214-a4af-016109aaf4f0",
             "Value": {
                 "id": "12a00601-7975-4d91-8547-0629178b3e6e",
@@ -100,6 +108,14 @@
                 "id": "3cd7e938-b7d2-4b11-b2cf-b3214dedad79",
                 "resourcePath": "sprites\\spriteenemy\\spriteenemy.yy",
                 "resourceType": "GMSprite"
+            }
+        },
+        {
+            "Key": "22c18406-9f61-46fd-bfe3-88a8c0142b02",
+            "Value": {
+                "id": "2b81d495-c659-41fc-be6b-a0900fd23750",
+                "resourcePath": "scripts\\TileSwitcher\\TileSwitcher.yy",
+                "resourceType": "GMScript"
             }
         },
         {
@@ -303,6 +319,14 @@
             }
         },
         {
+            "Key": "5aa36634-31bd-4e4d-b0d5-ace14590ef17",
+            "Value": {
+                "id": "c034acc4-156d-4043-8840-07b226377ac7",
+                "resourcePath": "objects\\oTileon\\oTileon.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
             "Key": "5f283f26-a577-4eb4-9dc7-5e0825dc9cbc",
             "Value": {
                 "id": "b32206c3-aeed-4237-843b-91a2bb9283e9",
@@ -371,6 +395,14 @@
             "Value": {
                 "id": "3d39078f-ce27-416a-94e5-62e177d824ee",
                 "resourcePath": "sprites\\sprite18\\sprite18.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
+            "Key": "67adb43c-1abf-418a-bd04-4b19e6c544b8",
+            "Value": {
+                "id": "588531e7-8025-4e70-89c8-ab8140c6a8f3",
+                "resourcePath": "sprites\\sprite191\\sprite191.yy",
                 "resourceType": "GMSprite"
             }
         },
@@ -516,6 +548,14 @@
                 "id": "96063bab-05b1-40a8-bee5-9201ce9411dd",
                 "resourcePath": "scripts\\MoveRight\\MoveRight.yy",
                 "resourceType": "GMScript"
+            }
+        },
+        {
+            "Key": "8d69b14e-6cd0-4899-9289-f5d53568c050",
+            "Value": {
+                "id": "dcda60ff-b35f-4dd4-a174-77064e4082a6",
+                "resourcePath": "sprites\\sprite19\\sprite19.yy",
+                "resourceType": "GMSprite"
             }
         },
         {
@@ -827,7 +867,8 @@
         "5873c283-5baf-47db-bfc2-23896da94de5",
         "3405ac33-6344-42dc-8307-6c2f4a03ad03",
         "998dbd44-92b2-4a31-9568-4f281c2df12a",
-        "ad099388-72b9-48b6-aff4-93d5bdf3fc64"
+        "ad099388-72b9-48b6-aff4-93d5bdf3fc64",
+        "22c18406-9f61-46fd-bfe3-88a8c0142b02"
     ],
     "tutorial": ""
 }
