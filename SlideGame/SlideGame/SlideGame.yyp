@@ -247,11 +247,27 @@
             }
         },
         {
+            "Key": "40494b38-747a-43cf-87e6-d9916ca4c4a1",
+            "Value": {
+                "id": "897e60ca-67fe-4bdb-af8a-6d492baea9f1",
+                "resourcePath": "objects\\ocamera\\ocamera.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
             "Key": "42cdf83b-dc13-421e-8efb-43f7e3f12c1f",
             "Value": {
                 "id": "27e7e421-55d3-4d85-a0f2-c0b66f7db196",
                 "resourcePath": "scripts\\Wave\\Wave.yy",
                 "resourceType": "GMScript"
+            }
+        },
+        {
+            "Key": "45cae185-b7aa-481b-9ec8-e9ef9bd82837",
+            "Value": {
+                "id": "4e0b9d09-f039-4d67-84f5-8178e617ba98",
+                "resourcePath": "rooms\\roomTestBig\\roomTestBig.yy",
+                "resourceType": "GMRoom"
             }
         },
         {
