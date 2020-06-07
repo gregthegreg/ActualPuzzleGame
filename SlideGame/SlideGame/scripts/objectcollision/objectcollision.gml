@@ -6,6 +6,7 @@ sprite_bbox_left = bbox_left - x;
 
 //Horizontal collisions
 x += hsp;
+canMove = false;
 
 //Snap
 if place_meeting(x, y, oSolid) { // DON'T USE sign(hsp) since you are checking current possition
@@ -18,9 +19,12 @@ if place_meeting(x, y, oSolid) { // DON'T USE sign(hsp) since you are checking c
     hsp = 0;
 	moving = false;
 	supercharged = false
-	if(moveId > -1 and !moving){
-		BufferedMove(moveId);
-	}
+	//strike checking moveID, check "cando" bool
+	//if(ds_queue_size(moveq) > 0 and !moving) {
+		
+	//	BufferedMove(ds_queue_dequeue(moveq));
+	//}
+	canMove = true;
 
 }
 
@@ -38,8 +42,16 @@ if place_meeting(x, y, oSolid) {
     vsp = 0;
 	moving = false;
 	supercharged = false
-	if(moveId > -1 and !moving){
-		BufferedMove(moveId);
-	}
+	//if(ds_queue_size(moveq) > 0 and !moving){
+	//	BufferedMove(ds_queue_dequeue(moveq));
+	//}
+	canMove = true;
 
+}
+
+if (canMove){
+	if(ds_list_size(movel) > 0){
+		BufferedMove(dequeuelist(movel));
+	}
+	canMove = false;
 }

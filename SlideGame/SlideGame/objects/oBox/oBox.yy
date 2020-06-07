@@ -1,28 +1,28 @@
 {
-    "id": "6070ece0-fa5c-4b7b-9329-6f043462d3cc",
+    "id": "6a319b7d-2ec3-4dde-bf23-dc312263e185",
     "modelName": "GMObject",
     "mvc": "1.0",
     "name": "oBox",
     "eventList": [
         {
-            "id": "259f1265-117d-4aee-a229-1e5b940b95c5",
+            "id": "29848db6-3105-496f-9d7f-2e886a77f540",
             "modelName": "GMEvent",
             "mvc": "1.0",
             "IsDnD": false,
             "collisionObjectId": "00000000-0000-0000-0000-000000000000",
             "enumb": 0,
             "eventtype": 3,
-            "m_owner": "6070ece0-fa5c-4b7b-9329-6f043462d3cc"
+            "m_owner": "6a319b7d-2ec3-4dde-bf23-dc312263e185"
         },
         {
-            "id": "0629e897-d6bb-4597-9004-ec86bc5b2450",
+            "id": "351279c0-5c00-46a1-8543-7aa13b284c65",
             "modelName": "GMEvent",
             "mvc": "1.0",
             "IsDnD": false,
             "collisionObjectId": "00000000-0000-0000-0000-000000000000",
             "enumb": 0,
             "eventtype": 0,
-            "m_owner": "6070ece0-fa5c-4b7b-9329-6f043462d3cc"
+            "m_owner": "6a319b7d-2ec3-4dde-bf23-dc312263e185"
         }
     ],
     "maskSpriteId": "00000000-0000-0000-0000-000000000000",

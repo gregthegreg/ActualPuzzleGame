@@ -1,4 +1,7 @@
 /// @description Insert description here
 // You can write your code in this editor
 draw_set_font(Font_Menu)
-draw_text(x,y,direction)
+draw_text(x,y,ds_queue_head(moveq));
+image_angle = direction
+
+
