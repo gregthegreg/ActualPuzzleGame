@@ -2,8 +2,10 @@
 // You can write your code in this editor
 dragging_x = event_data[?"posX"];
 dragging_y = event_data[?"posY"];
-if(drag_start_x != -1&&drag_start_y != -1)
-{
+
+
+		if(drag_start_x != undefined) || (drag_start_y != undefined){
+
 	//Set min swipe length to avoid accidental swipes
 	if point_distance(drag_start_x,drag_start_y,dragging_x,dragging_y)>global.swipe_size
 	{
@@ -36,4 +38,4 @@ if(drag_start_x != -1&&drag_start_y != -1)
 		drag_start_x=event_data[?"posX"];
 		drag_start_y=event_data[?"posY"];
 	}
-}
+		}
