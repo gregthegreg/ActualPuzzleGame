@@ -6,4 +6,7 @@ with(oPlayer)&&(oTeleport.touched = false){
 	y = oTeleport.y+vsp
 	//oTeleport.touched = true
 	oTeleport1.touched = true
+	dequeuelist(movel)
+	moveId =-1
+	
 }

@@ -7,7 +7,7 @@ if(os_type = os_windows)
 	Leftkey  = keyboard_check_pressed(vk_left);
 	RightKey = keyboard_check_pressed(vk_right);
 }
-else if(os_type = os_android)
+if(os_type = os_android)
 {
 	misckey_released = mouse_check_button_released(mb_left);
 	misckey  = mouse_check_button_pressed(mb_right);	
