@@ -1,5 +1,5 @@
 
-if(misckey)
+/*if(misckey)
 {
 	if(!charged)
 	{
@@ -7,6 +7,7 @@ if(misckey)
 	jumps = 1
 	}
 }
+*/
 
 if(jumps = 0)&&(!moving){
 	charged = false
