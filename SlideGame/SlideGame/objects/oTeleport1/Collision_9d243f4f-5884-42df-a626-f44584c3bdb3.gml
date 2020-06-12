@@ -1,7 +1,7 @@
 /// @description Insert description here
 // You can write your code in this editor
 
-with(oPlayer)&&(oTeleport.touched = false){
+with(oPlayer){
 	x = oTeleport.x+hsp
 	y = oTeleport.y+vsp
 	//oTeleport.touched = true
