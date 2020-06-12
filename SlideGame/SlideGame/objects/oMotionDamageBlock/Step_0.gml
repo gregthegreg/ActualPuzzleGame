@@ -11,7 +11,8 @@ if(oPlayer.moving = false){
 	}
 	if(image_index = 1){
 		if(collision_circle(x,y,35,oPlayer,1,0)){
-				room_restart() 
+				if(global.checkpointx != undefined){ oPlayer.x= global.checkpointx; oPlayer.y = global.checkpointy room_restart()} 
+				else {room_restart()}
 		}
 	}
 	

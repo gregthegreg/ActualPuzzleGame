@@ -4,5 +4,6 @@ if(other.supercharged){
 	instance_destroy()
 }
 else if(!other.supercharged){
-room_restart()
+if(global.checkpointx != undefined){ oPlayer.x= global.checkpointx; oPlayer.y = global.checkpointy room_restart()}
+else {room_restart()}
 }

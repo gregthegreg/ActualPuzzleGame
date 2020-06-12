@@ -407,6 +407,14 @@
             }
         },
         {
+            "Key": "5afd30f7-0034-4b9c-a530-5cbf117547fc",
+            "Value": {
+                "id": "10194bc8-b529-4803-976e-48b3e5fc0502",
+                "resourcePath": "sprites\\sprite63111\\sprite63111.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "5f283f26-a577-4eb4-9dc7-5e0825dc9cbc",
             "Value": {
                 "id": "b32206c3-aeed-4237-843b-91a2bb9283e9",
@@ -604,6 +612,14 @@
                 "id": "7fae0c0a-bb7a-4e72-bde8-bbd0be925c42",
                 "resourcePath": "sprites\\sprite6\\sprite6.yy",
                 "resourceType": "GMSprite"
+            }
+        },
+        {
+            "Key": "7d933ec7-d53e-4c58-a417-0fdb3badc0e4",
+            "Value": {
+                "id": "cdcf5913-f7c7-4163-9d1a-fbc2290d9ec6",
+                "resourcePath": "objects\\oCheckPoint\\oCheckPoint.yy",
+                "resourceType": "GMObject"
             }
         },
         {
@@ -807,6 +823,14 @@
             }
         },
         {
+            "Key": "a448985f-681f-4b3d-9ff2-b0831db11196",
+            "Value": {
+                "id": "3ca2f3ee-11f7-48cb-9893-54b5212d619a",
+                "resourcePath": "objects\\oGbGlogo\\oGbGlogo.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
             "Key": "a84f7c09-4c26-479c-9ab9-e92e62f3e3d7",
             "Value": {
                 "id": "ba67fd8e-f5b4-453b-9a62-804d5335e6e2",
@@ -911,6 +935,14 @@
             }
         },
         {
+            "Key": "c7b5076a-6acb-429a-9606-79706b7752f6",
+            "Value": {
+                "id": "6439b138-e6ce-461b-8b2c-19cb1e8ab5a0",
+                "resourcePath": "rooms\\room0\\room0.yy",
+                "resourceType": "GMRoom"
+            }
+        },
+        {
             "Key": "cc98d028-7bdd-4680-85f3-c87a7baa481e",
             "Value": {
                 "id": "da26108c-ecf2-4b77-96a6-072da7845251",
@@ -924,6 +956,14 @@
                 "id": "205cc38e-e354-4c44-a999-d44d1de017ec",
                 "resourcePath": "scripts\\CheckMove\\CheckMove.yy",
                 "resourceType": "GMScript"
+            }
+        },
+        {
+            "Key": "d4c92fcb-d91f-48a5-8a93-c3c552e5838a",
+            "Value": {
+                "id": "01ae50e8-7bc8-466f-8e9c-50183b944816",
+                "resourcePath": "objects\\oInit\\oInit.yy",
+                "resourceType": "GMObject"
             }
         },
         {

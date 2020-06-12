@@ -18,3 +18,8 @@ Leftkey  = false;
 RightKey = false;
 moveq = ds_queue_create();
 movel = ds_list_create();
+
+
+
+
+
