@@ -1077,6 +1077,14 @@
                 "resourcePath": "objects\\oNumberBox3\\oNumberBox3.yy",
                 "resourceType": "GMObject"
             }
+        },
+        {
+            "Key": "fdb3b7b3-e9bc-4ca5-842c-4c099efee229",
+            "Value": {
+                "id": "5702f7b6-523e-44a3-8b1d-e3d65c95731c",
+                "resourcePath": "rooms\\roomTest8\\roomTest8.yy",
+                "resourceType": "GMRoom"
+            }
         }
     ],
     "script_order": [
