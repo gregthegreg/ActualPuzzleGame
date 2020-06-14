@@ -111,6 +111,14 @@
             }
         },
         {
+            "Key": "1b02273b-6b4e-45ee-a5d0-2d94a54a7023",
+            "Value": {
+                "id": "72bc5a59-febb-4dac-a0a3-f1facd76d519",
+                "resourcePath": "sprites\\spritecrumble\\spritecrumble.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "1cc6f7c6-aa78-4720-aa5a-cca94bb0e999",
             "Value": {
                 "id": "69079288-5cc6-4b6b-9e2d-74854c862adc",
@@ -930,7 +938,7 @@
             "Key": "c7b5076a-6acb-429a-9606-79706b7752f6",
             "Value": {
                 "id": "6439b138-e6ce-461b-8b2c-19cb1e8ab5a0",
-                "resourcePath": "rooms\\room0\\room0.yy",
+                "resourcePath": "rooms\\roomINT\\roomINT.yy",
                 "resourceType": "GMRoom"
             }
         },
@@ -955,6 +963,14 @@
             "Value": {
                 "id": "01ae50e8-7bc8-466f-8e9c-50183b944816",
                 "resourcePath": "objects\\oInit\\oInit.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
+            "Key": "db2d7566-59b6-4cec-979a-1b4e944f0503",
+            "Value": {
+                "id": "943c42dd-2d66-4d02-a0a6-2e763f222bf9",
+                "resourcePath": "objects\\oCrumbleBlock\\oCrumbleBlock.yy",
                 "resourceType": "GMObject"
             }
         },
