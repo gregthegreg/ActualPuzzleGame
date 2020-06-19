@@ -167,6 +167,14 @@
             }
         },
         {
+            "Key": "244d7430-e902-41e9-8b60-0fbd254029d7",
+            "Value": {
+                "id": "9f3cb63a-4f41-4061-bc93-bd6ff273b886",
+                "resourcePath": "objects\\oGate1\\oGate1.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
             "Key": "24e4de87-2d53-4730-ab8b-c2d5107fe769",
             "Value": {
                 "id": "f5c8f9ba-5680-4c96-9ece-9ef0f6aa5881",
@@ -903,6 +911,14 @@
             }
         },
         {
+            "Key": "b0068777-60e6-4ce4-b478-5628fc91b46e",
+            "Value": {
+                "id": "1bf44e84-a168-469f-8a61-657e53b26b2e",
+                "resourcePath": "sprites\\sprite30\\sprite30.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "b4f1ebf4-5a04-407d-927e-55129a40355c",
             "Value": {
                 "id": "b6615b5b-4a84-47b4-a9b1-c84e1790f1fe",
@@ -995,14 +1011,6 @@
             "Value": {
                 "id": "943c42dd-2d66-4d02-a0a6-2e763f222bf9",
                 "resourcePath": "objects\\oCrumbleBlock\\oCrumbleBlock.yy",
-                "resourceType": "GMObject"
-            }
-        },
-        {
-            "Key": "dbc9890f-6e49-43a2-8e2d-bc8c240494bc",
-            "Value": {
-                "id": "335d3bc7-360b-4377-85f8-9909616e2e68",
-                "resourcePath": "objects\\oGate1\\oGate1.yy",
                 "resourceType": "GMObject"
             }
         },
