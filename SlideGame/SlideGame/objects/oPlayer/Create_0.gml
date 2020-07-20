@@ -2,6 +2,8 @@
 // You can write your code in this editorvsp
 startxscale = image_xscale *2 
 startyscale = image_yscale *2
+
+
 vsp = 0
 hsp = 0
 charged = false

@@ -1,5 +1,6 @@
 /// @description Insert description here
 // You can write your code in this editor
-drag_start_x=event_data[?"posX"];
-drag_start_y=event_data[?"posY"];
-holdtimer = 0
+path_start(path0,5,path_action_reverse,1)
+hsp = 0
+vsp = 0
+

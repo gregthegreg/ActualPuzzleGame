@@ -4,7 +4,16 @@
     "mvc": "1.0",
     "name": "oWall",
     "eventList": [
-        
+        {
+            "id": "74b0ac67-c14b-4117-9bb2-b232316b8335",
+            "modelName": "GMEvent",
+            "mvc": "1.0",
+            "IsDnD": false,
+            "collisionObjectId": "00000000-0000-0000-0000-000000000000",
+            "enumb": 0,
+            "eventtype": 0,
+            "m_owner": "b4f1ebf4-5a04-407d-927e-55129a40355c"
+        }
     ],
     "maskSpriteId": "00000000-0000-0000-0000-000000000000",
     "overriddenProperties": null,

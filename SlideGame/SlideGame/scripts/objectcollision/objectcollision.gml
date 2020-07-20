@@ -25,6 +25,7 @@ if place_meeting(x, y, oSolid) { // DON'T USE sign(hsp) since you are checking c
 	//	BufferedMove(ds_queue_dequeue(moveq));
 	//}
 	canMove = true;
+	
 
 }
 
@@ -46,6 +47,7 @@ if place_meeting(x, y, oSolid) {
 	//	BufferedMove(ds_queue_dequeue(moveq));
 	//}
 	canMove = true;
+	
 
 }
 

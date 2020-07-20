@@ -87,6 +87,14 @@
             }
         },
         {
+            "Key": "0a92eb6a-b17a-42f5-a926-e1d599b994c8",
+            "Value": {
+                "id": "40705161-8768-444e-bff6-2ad05c3b01b5",
+                "resourcePath": "scripts\\movingwalldirection\\movingwalldirection.yy",
+                "resourceType": "GMScript"
+            }
+        },
+        {
             "Key": "0d79bae0-e142-4217-9eb3-ec63808a16f1",
             "Value": {
                 "id": "d295dd85-70d3-4fb6-848e-993b7ebd5d4b",
@@ -148,6 +156,14 @@
                 "id": "4d3b69df-e209-47d6-881a-33b774da1f65",
                 "resourcePath": "objects\\oTileOffSolid\\oTileOffSolid.yy",
                 "resourceType": "GMObject"
+            }
+        },
+        {
+            "Key": "207e224d-35ac-4f33-95a7-47e6beb7e21b",
+            "Value": {
+                "id": "1a188757-4d89-4269-b5d3-3d989d08bb91",
+                "resourcePath": "paths\\path0\\path0.yy",
+                "resourceType": "GMPath"
             }
         },
         {
@@ -423,14 +439,6 @@
             }
         },
         {
-            "Key": "5f283f26-a577-4eb4-9dc7-5e0825dc9cbc",
-            "Value": {
-                "id": "b32206c3-aeed-4237-843b-91a2bb9283e9",
-                "resourcePath": "paths\\path0\\path0.yy",
-                "resourceType": "GMPath"
-            }
-        },
-        {
             "Key": "5f7327b9-dd73-4d43-bd6e-5139db87a167",
             "Value": {
                 "id": "513a1489-7b18-4fce-9531-7b6f21b7418e",
@@ -623,6 +631,14 @@
             }
         },
         {
+            "Key": "78bac7df-1a84-477b-8d2e-3905bfa8a2c3",
+            "Value": {
+                "id": "e430f481-1ca0-46b1-8d68-ed3c62889835",
+                "resourcePath": "objects\\oMovingWall\\oMovingWall.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
             "Key": "7bc1d0da-c335-4397-a4ec-20aa64bababc",
             "Value": {
                 "id": "7fae0c0a-bb7a-4e72-bde8-bbd0be925c42",
@@ -719,6 +735,14 @@
             }
         },
         {
+            "Key": "8da95089-351f-447d-999c-a7ed7eefc6fc",
+            "Value": {
+                "id": "52b9d12c-7844-417e-9433-baaf8091ce3b",
+                "resourcePath": "scripts\\movingwallHSPVSP\\movingwallHSPVSP.yy",
+                "resourceType": "GMScript"
+            }
+        },
+        {
             "Key": "8fb3c3fa-6d65-4192-be45-618b07c2d6a2",
             "Value": {
                 "id": "99d18e9a-958e-4f8c-aa67-64902caab8dc",
@@ -772,6 +796,14 @@
                 "id": "64bfd884-33fe-44e0-a1c4-e12c843a71c1",
                 "resourcePath": "scripts\\approach\\approach.yy",
                 "resourceType": "GMScript"
+            }
+        },
+        {
+            "Key": "95982608-4203-4e11-a708-c67cdaf373e3",
+            "Value": {
+                "id": "62596129-de9a-4baf-baa1-b3655fcdc696",
+                "resourcePath": "paths\\path1\\path1.yy",
+                "resourceType": "GMPath"
             }
         },
         {
@@ -1155,7 +1187,9 @@
         "a84f7c09-4c26-479c-9ab9-e92e62f3e3d7",
         "9bb7566f-f3cc-4a3d-815f-7f161339d082",
         "95832c6d-e8e7-4f65-a8bd-449f58708a72",
-        "e67a2983-056d-487b-93e2-60a533dd749b"
+        "e67a2983-056d-487b-93e2-60a533dd749b",
+        "0a92eb6a-b17a-42f5-a926-e1d599b994c8",
+        "8da95089-351f-447d-999c-a7ed7eefc6fc"
     ],
     "tutorial": ""
 }
