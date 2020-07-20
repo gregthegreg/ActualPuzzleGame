@@ -4,6 +4,8 @@
     "mvc": "1.1",
     "name": "d3debf41-aeab-4c0c-a415-8f204086402d",
     "children": [
+        "b4f1ebf4-5a04-407d-927e-55129a40355c",
+        "78bac7df-1a84-477b-8d2e-3905bfa8a2c3",
         "db2d7566-59b6-4cec-979a-1b4e944f0503",
         "038b0934-2366-4731-b930-954aeee36c18",
         "6cac1d1d-b573-43ea-b941-8d9d30b3106a",
@@ -37,8 +39,7 @@
         "72e3d0f8-2586-4943-9da4-a702fcb29312",
         "8fb3c3fa-6d65-4192-be45-618b07c2d6a2",
         "8a98b3ef-4ce6-476e-8a5a-dd95a10fde38",
-        "01a695a7-f4e6-46e3-a515-a630d8b151bf",
-        "b4f1ebf4-5a04-407d-927e-55129a40355c"
+        "01a695a7-f4e6-46e3-a515-a630d8b151bf"
     ],
     "filterType": "GMObject",
     "folderName": "Obstacles\/Enemies",

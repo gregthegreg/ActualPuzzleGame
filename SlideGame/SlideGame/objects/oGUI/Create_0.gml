@@ -8,4 +8,5 @@ drag_start_x = undefined
 drag_start_y = undefined
 global.swipe_margin = 45
 global.swipe_size = room_width/15;
+holdtimer = 0
 

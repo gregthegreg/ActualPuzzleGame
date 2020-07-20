@@ -34,7 +34,7 @@ dragging_y = event_data[?"posY"];
 			//Down swipe
 			swipedown = 1
 		}
-		
+		holdtimer = 0
 		drag_start_x=event_data[?"posX"];
 		drag_start_y=event_data[?"posY"];
 	}
