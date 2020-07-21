@@ -7,7 +7,7 @@ globalvar sz, effect, force_direction, nodes_damping, springs_damping, springs_s
 //Grid behavior depends on the cell size and these parameters
 //Grid can become unstable when they are set improperly
 
-sz =96;         //grid cell size in pixels
+sz =150;         //grid cell size in pixels
 //distance = 100;  //how far grid nodes will be affected        (IMPORTANT FOR ALL EFFECTS !!!)
 effect = 0;      //what force effect shoud be used 0-2
 //force = 20;      //how strong effect will be                  (IMPORTANT FOR ALL EFFECTS !!!)

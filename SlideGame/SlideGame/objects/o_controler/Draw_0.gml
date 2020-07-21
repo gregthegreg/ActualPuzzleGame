@@ -2,7 +2,7 @@ var alp = draw_get_alpha();
 var col = draw_get_color();
 
 draw_set_color(c_white);
-draw_set_alpha(0.5);
+draw_set_alpha(1);
 
 count = 0;
 
