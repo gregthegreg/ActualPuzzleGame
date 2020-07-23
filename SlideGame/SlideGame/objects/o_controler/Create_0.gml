@@ -7,7 +7,9 @@ http://gamedevelopment.tutsplus.com/tutorials/make-a-neon-vector-shooter-for-ios
 //THIS IS MAIN CONTROLER OBJECT FOR THE GRID IT HANDLES GRID PHYSICS AND GRID DRAWING
 //IT SHOULD BE PRESENT IN THE ROOM
 
-
+zoom = 1;
+view_pos_x = 0;
+view_pos_y = 0;
 size = sz;              //grid cell size
 
 nodesx = floor(room_width / size);     //how many nodes horizontally

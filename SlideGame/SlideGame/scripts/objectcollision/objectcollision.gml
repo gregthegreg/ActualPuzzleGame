@@ -20,7 +20,7 @@ if place_meeting(x, y, oSolid) { // DON'T USE sign(hsp) since you are checking c
 	moving = false;
 	supercharged = false
 	repeat(3){
-	with(o_controler) direct_force_grid(other.x,other.y,120,120,other.direction) //explode_grid(other.x, other.y, 120, 120);
+	with(o_controler) direct_force_grid(other.x,other.y,120,90,other.direction) //explode_grid(other.x, other.y, 120, 120);
 	}
 	//strike checking moveID, check "cando" bool
 	//if(ds_queue_size(moveq) > 0 and !moving) {
@@ -47,7 +47,7 @@ if place_meeting(x, y, oSolid) {
 	moving = false;
 	supercharged = false
 	repeat(3){
-	with(o_controler) direct_force_grid(other.x,other.y,120,120,other.direction) //explode_grid(other.x, other.y, 120, 120);
+	with(o_controler) direct_force_grid(other.x,other.y,120,90,other.direction) //explode_grid(other.x, other.y, 120, 120);
 	}//if(ds_queue_size(moveq) > 0 and !moving){
 	//	BufferedMove(ds_queue_dequeue(moveq));
 	//}

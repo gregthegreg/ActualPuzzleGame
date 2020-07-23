@@ -1,6 +1,6 @@
 var alp = draw_get_alpha();
 var col = draw_get_color();
-
+draw_sprite_tiled_ext(spr_stars,irandom(3),0,0,2,2,c_white,1);
 draw_set_color(c_white);
 draw_set_alpha(1);
 
