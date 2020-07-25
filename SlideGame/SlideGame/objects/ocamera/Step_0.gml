@@ -1,9 +1,17 @@
 /// @description Insert description here
 // Update Camera
 //Update Destination
+zoom_rate = lerp((mouse_wheel_up()-mouse_wheel_down()), zoom_rate, zoom_inertia);
+zoom *= 1+zoom_rate*zoom_speed;
 
-
-
+if(zoomin){
+	view_w_half = approach(view_w_half,360,64)
+	view_h_half =  approach(view_h_half,640,64)
+}
+else{
+		view_w_half = approach(view_w_half,540,64)
+	view_h_half =  approach(view_h_half,960,64)
+}
 if (instance_exists(follow))
 {
 	xTo = follow.x;
@@ -22,7 +30,7 @@ y = clamp(y, view_h_half + buff, room_height - view_h_half-buff);
 
 //Update camera veiw
 camera_set_view_pos(cam,x - view_w_half,y - view_h_half);
-
+camera_set_view_size(cam,view_w_half*2,view_h_half*2);
 //Screenshake
 x+= random_range(-shake_remain,shake_remain)
 y += random_range(-shake_remain,shake_remain)
@@ -68,7 +76,7 @@ else if(screenjuttdown){
 shake_remain = max(0,shake_remain-((1/shake_length)*shake_magnitude));
 
 //Update Camera View
-camera_set_view_pos (cam,x-view_w_half,y-view_h_half);
+//camera_set_view_pos (cam,x-view_w_half,y-view_h_half);
 
 
 //Parralax Scrolling

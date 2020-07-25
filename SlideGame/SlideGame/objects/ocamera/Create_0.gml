@@ -1,10 +1,7 @@
 /// @description Insert description here
 // Set Up camera
 cam = view_camera[0];
-screenjuttright = false
-screenjuttleft = false
-screenjuttup = false
-screenjuttdown = false
+zoomin = -1
 moved = false
 if(room_width > 1200)||(room_height> 2000)
 {
@@ -22,3 +19,7 @@ shake_length = 0;
 shake_magnitude = 0;
 shake_remain = 0;
 buff = 32;
+zoom_inertia = 0.5; //0 = no inertia, 1 = no movement
+zoom_speed = 0.5;   //higher = faster
+zoom_rate = 0;      //Initialize zoom velocity
+zoom = 1;           //Initialize zoom scale
